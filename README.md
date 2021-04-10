@@ -11,8 +11,8 @@ Os programas disponíveis são os seguintes:
 
 **CircuitPython** - programas escritos em CircuitPython
 
-* Larson - exemplo de entrada e saída digital
-* MP3 - comando de um módulo MP3 através da serial assíncrona
-  
-**IDF ** - programa escritos em C utilizando a IDF da ExpressIf
+* [Larson](CircuitPython/Larson) - exemplo de entrada e saída digital
+* [MP3](CircuitPython/MP3_Serial) - comando de um módulo MP3 através da serial assíncrona
+
+**IDF** - programa escritos em C utilizando a IDF da ExpressIf
 
