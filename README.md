@@ -13,6 +13,7 @@ Os programas disponíveis são os seguintes:
 
 * [Larson](CircuitPython/Larson) - exemplo de entrada e saída digital
 * [MP3](CircuitPython/MP3_Serial) - comando de um módulo MP3 através da serial assíncrona
+* [RFID](CircuitPython/RFID) - leitura de tags RFID usando leitor serial
 
 **IDF** - programa escritos em C utilizando a IDF da ExpressIf
 
