@@ -1,7 +1,6 @@
 # FranzininhoWiFi - CircuitPython - RFID
 Este exemplo utiliza a interface serial assíncrona para receber mensagens de um
-leitor RFID 125KHz. O leitor usado nos testes não é mais comercializado, mas
-existem leitores com o mesmo protocolo.
+leitor RFID 125KHz modelo RDM6300.
 
 Quando um tag é detectado, o leitor envia pela serial assíncrona (9600bps, 8N1)
 a seguinte sequência:
@@ -26,6 +25,6 @@ Para montagem deste projeto é necessário:
 * LEDs - podem ser LEDs avulsos ou um _display de 10 segmentos bargraph_
 (conjunto com 10 LEDs em um encapsulamento DIP)
 * Um resistor de 220 ohms para cada LED
-* Módulo RFID e tags
+* Módulo RFID RDM6300 e tags
 * Protoboard e fios
 
